@@ -1,0 +1,17 @@
+#MyEclipse Hibernate Properties
+#Sat Jun 01 15:44:42 CST 2013
+genVersionTag=false
+sessionFactoryName=com.amnesiac.dao.impl.HibernateSessionFactory
+genAnnotations=false
+configFile=/AmnesiacM/src/applicationContext.xml
+reStrategyClass=
+sessionFactoryId=sessionFactory
+profile=
+detectM2M=false
+genBasicCompId=false
+keyGenerator=
+createConfigFile=true
+basePersistenceClass=
+detectO2O=false
+useJavaTypes=true
+reSettingsFile=
